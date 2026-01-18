@@ -1,0 +1,7 @@
+{
+  "name": "BHARAT LEKHAK",
+  "description": "A premier multilingual story publishing platform empowering Indian writers across 13 major languages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
